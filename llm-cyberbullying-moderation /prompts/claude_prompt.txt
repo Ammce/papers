@@ -1,0 +1,4 @@
+Analyze the following comment and determine if it contains cyberbullying, harassment, or harmful language.
+Make sure to understand the context, tone and potential impact. 
+Respond with 0 if it is not harmful and 1 if it is harmful.
+Comment is:
